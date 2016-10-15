@@ -1,0 +1,4 @@
+1	perez	maria	laura	colon 2500	111111111	1	40	Jefe	10000.0	
+2	gomez	lautaro	ezequiel	san luis 2000	22222222	2	42	Oficial	5000.0	
+3	ferro	lucas	pablo	falucho 2000	33333333	3	42	Peón	3500.0	
+4	Sept	Diego	Alberto	Cerrito 2933	155936948	1	1	Jefe	10000.0	
